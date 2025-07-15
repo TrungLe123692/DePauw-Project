@@ -3,7 +3,7 @@
 ## Business Objective 
 The goal of this project is to help NYC Andiamo Pizza boost profitability and efficiency by analyzing detailed sales data to uncover patterns in revenue, order volumes, and customer preferences. Using structured SQL queries and dynamic Excel dashboards, the analysis identifies peak sales times, top-selling pizza categories and sizes, and trends in average order value and order frequency. These insights enable the business to make data-driven decisions about staffing, promotions, menu design, and inventory planning, ensuring that operations align closely with actual customer demand in a competitive New York City market.
 
-View my Excel Dashboard: [NYC Andiamo Pizza Sales Dashboard](https://trungleportfolio.carrd.co/#sql1)
+View my Excel Dashboard: [NYC Andiamo Pizza Sales Dashboard]([https://trungleportfolio.carrd.co/#sql1](https://github.com/TrungLe123692/NYC-Andiamo-Pizza-Sales-Analytics-Project-/blob/main/dashboard.png))
 
 ## About the data
 The dataset was obtained from the Pizza Sales dataset available from [2015 NYC Andiamo Pizza Sales dataset](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset?resource=download). It contains detailed sales transactions for NYC Andiamo Pizza, covering customer orders over a full year. The data includes 14 columns and over 48,000 rows:
