@@ -20,7 +20,7 @@ Help **NYC Andiamo Pizza** improve profitability and operational efficiency by:
 
 ---
 
-## 2. About the Data
+## 2. About the Data and Stucture
 
 The project uses the **[2015 NYC Andiamo Pizza Sales Dataset](https://github.com/TrungLe123692/NYC-Andiamo-Pizza-Sales-Analytics-Project-/blob/main/Pizza%20Data.xlsx)** with **48,000+ transactions** and **14 columns** detailing order IDs, dates, times, product info, quantities, and prices, covering a full year of pizza sales in New York City.
 
@@ -42,7 +42,13 @@ The project uses the **[2015 NYC Andiamo Pizza Sales Dataset](https://github.com
 | pizza_ingredients | Ingredients used                                              | VARCHAR(255)|
 | pizza_name        | Full name of the pizza                                        | VARCHAR(100)|
 
+
+[Project Structure](https://github.com/TrungLe123692/NYC-Andiamo-Pizza-Sales-Analytics-Project-/blob/main/Project%20Structure)
+
+<img width="435" height="632" alt="Screenshot 2025-08-10 153716" src="https://github.com/user-attachments/assets/57fa28e9-4165-4ea7-9c92-a92021e54b18" />
+
 ---
+
 ## 3. Data Analyst Techniques 
 
 - **3.1. Data Aggregation (`SUM`, `COUNT`, `AVG`, `GROUP BY`)**
