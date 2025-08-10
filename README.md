@@ -51,6 +51,8 @@ The project uses the **[2015 NYC Andiamo Pizza Sales Dataset](https://github.com
 
 ## 3. Data Analyst Techniques 
 
+> ✅ The analysis aggregated sales data, calculated performance KPIs, ranked products by sales, examined time-based demand trends, measured category contributions to revenue, and presented findings through interactive Excel dashboards to support informed business decisions.
+
 - **3.1. Data Aggregation (`SUM`, `COUNT`, `AVG`, `GROUP BY`)**
   
   ▪ Used aggregate functions to compute key metrics such as **total revenue**, **total pizzas sold**, and **total orders**.  
@@ -105,7 +107,9 @@ The project uses the **[2015 NYC Andiamo Pizza Sales Dataset](https://github.com
 
 ---
 
-  ## 4. SQL Script 
+## 4. SQL Script 
+
+> ✅ These SQL codes applied aggregation, grouping, date/time extraction, percentage calculations, window functions, and subqueries to generate precise, business-focused sales insights.
 
 ### **4.1. KPI – Total Revenue**
 
