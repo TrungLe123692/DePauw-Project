@@ -1,0 +1,25 @@
+│
+├── data/
+│   └── Pizza_Data.xlsx
+│
+├── sql/
+│   └── pizza_sales_analysis_queries.sql
+│
+├── visuals/
+│   ├── sales_by_category.png
+│   ├── sales_by_size.png
+│   ├── daily_order_trend.png
+│   ├── hourly_order_trend.png
+│   ├── top_5_best_sellers.png
+│   ├── bottom_5_best_sellers.png
+│   └── monthly_category_sales.png
+│
+├── dashboard/
+│   └── NYC_Andiamo_Pizza_Sales_Dashboard.xlsx
+│
+├── output/
+│   └── Pizza_Sales_Analysis_Report.pdf
+│
+├── README.md
+├── .gitignore
+├── LICENSE
