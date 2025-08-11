@@ -45,7 +45,34 @@ The project uses the **[2015 NYC Andiamo Pizza Sales Dataset](https://github.com
 
 [Project Structure](https://github.com/TrungLe123692/NYC-Andiamo-Pizza-Sales-Analytics-Project-/blob/main/Project%20Structure)
 
-<img width="435" height="632" alt="Screenshot 2025-08-10 153716" src="https://github.com/user-attachments/assets/57fa28e9-4165-4ea7-9c92-a92021e54b18" />
+```
+pizza-sales-analysis/
+│
+├── data/
+│   └── Pizza_Data.xlsx
+│
+├── sql/
+│   └── pizza_sales_analysis_queries.sql
+│
+├── visuals/
+│   ├── sales_by_category.png
+│   ├── sales_by_size.png
+│   ├── daily_order_trend.png
+│   ├── hourly_order_trend.png
+│   ├── top_5_best_sellers.png
+│   ├── bottom_5_best_sellers.png
+│   └── monthly_category_sales.png
+│
+├── dashboard/
+│   └── NYC_Andiamo_Pizza_Sales_Dashboard.xlsx
+│
+├── output/
+│   └── Pizza_Sales_Analysis_Report.pdf
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
 
 ---
 
